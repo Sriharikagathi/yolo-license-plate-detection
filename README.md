@@ -32,27 +32,5 @@ Test on the webcam:
 python object_detection_yolo.py
 ```
 
-## 🧑‍💻 Contributers
 
-<a href="https://github.com/alitourani/yolo-license-plate-detection/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=alitourani/yolo-license-plate-detection" />
-</a>
 
-## 🔗 Citation
-
-Please cite the following paper in case you have used this repo:
-
-```
-@inproceedings{Khazaee2020,
-	author = {Khazaee, Saeed and Tourani, Ali and Soroori, Sajjad and Shahbahrami, Asadollah and Suen, Ching Y.},
-	title = {{A Real-Time License Plate Detection Method Using a Deep Learning Approach}},
-	booktitle = {Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
-	doi = {10.1007/978-3-030-59830-3_37},
-	isbn = {9783030598297},
-	issn = {16113349},
-	keywords = {Automatic number-plate detection,Deep learning,Image processing,Intelligent Transportation Systems},
-	pages = {425--438},
-	volume = {12068 LNCS},
-	year = {2020}
-}
-```
